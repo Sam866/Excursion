@@ -10,18 +10,21 @@ h1 {
 	color:White;
 }
 
-#"First link" a {
-	color: aquamarine;
-	font-size: 16px;
+h2 {
 	font-family: Verdana;
+	font-size: 42px;
+	font-weight: 300;
 	text-align: center;
-	font-weight: normal;
+	color:White;
 }
 
-#"Second link" p {
-	color: aquamarine;
-	font-size: 16px;
-	font-family: Verdana;
-	text-align: center;
-	font-weight: normal;
-}
+IMG{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
